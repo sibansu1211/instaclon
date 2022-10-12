@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <div className='header'>
       <div className='circle'>
-        <img src='/images/concentric_circles.jpg' alt='' />
+        <img src='/images/logo.jpg' alt='' />
       </div>
 
       <div className='txtHeader'>
